@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.cabecalho {
+    background-color: #550baa;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 10%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 16px;
+}
+
+.sobre-imagem{
+    width: 20%;
+}
+
+.sobre{
+    background-image: linear-gradient(#550baa,#9660d3);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.sobre-div-conteudo{
+    width: 35%;
+}
+
+.sobre-titulo{
+    padding: 24px 0;
+}
+
+.acai{
+    color:black;
+    display: flex;
+    justify-content: justify;
+    align-items: center;
+    padding: 24px 0;
+}
+.acai-imagem{
+    width: 50%;
+}
+
+.acai-div{
+    text-align: center;
+    padding: 16px 0;
+}
+
+.acai-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.rodape{
+    background-color: #550baa;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 7%;
+    padding: 12px 0;
+}
+
+.desenvolvedora{
+    color: white;
+}
+
+.Github{
+    color: white;
+}
